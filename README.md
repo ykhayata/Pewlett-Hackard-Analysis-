@@ -6,7 +6,7 @@ The purpose of my analysis is to examine the employees at Pewlett Hackard, and a
 
 ### Current CSV Storage 
 
-<img width="632" alt="Screen Shot 2021-01-13 at 12 59 44 PM" src="https://user-images.githubusercontent.com/74481469/105260891-73e11780-5b43-11eb-8ea8-f64076ebf094.png">
+<img width="593" alt="Screen Shot 2021-01-20 at 5 44 49 PM" src="https://user-images.githubusercontent.com/74481469/105268523-4007f100-5b47-11eb-92d3-cd4a12ec5342.png">
 
 ## Results
 
